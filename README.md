@@ -6,27 +6,11 @@
 
   - 📚 Estudiante de Ingeniería Civil Eléctrica y Magíster de Ciencia de Datos.
 
-  - 🌱  Aprendiendo constantemente sobre **Python**, **Matemáticas**, .
+  - 🌱  Aprendiendo constantemente sobre **Python**, **Matemáticas** y **Educación** .
 
-  - 💬 Ask me about **any technology**.
-
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+  - ⚡ Dato freak: Toco música en mis ratos libres
 
   <br>
-  
-
-</div>
-
-
-<div align="center">
-
-  `Developer and IT enthusiast`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
 </div>
 
 
@@ -34,10 +18,10 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
+  - Python
+  - Procesamiento de voz
+  - Estadísticas
+  - Innovación para la discapacidad
 
 </div>
 
@@ -70,5 +54,3 @@
   [![GitHub Badge](https://img.shields.io/badge/-nicoacevedor-393636?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nicoacevedor)
 
 </div>
-
-<!-- ## 📚 &nbsp;My Projects -->
