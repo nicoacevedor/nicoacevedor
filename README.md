@@ -2,7 +2,7 @@
 
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## 🧭 &nbsp;Sobre mí
 
   - 📚 Estudiante de Ingeniería Civil Eléctrica y Magíster de Ciencia de Datos.
 
@@ -16,7 +16,7 @@
 
 <div>
 
-  ## 📚 &nbsp;Currently studying
+  ## 📚 &nbsp;Actualmente estudiando
 
   - Python
   - Procesamiento de voz
