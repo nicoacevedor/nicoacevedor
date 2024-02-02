@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Nicolás Acevedo R.</h1>
+<h1 align="center">Hola! Soy Nicolás Acevedo Rivas</h1>
 
 <div>
 
